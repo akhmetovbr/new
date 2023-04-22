@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+    color: black;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    font: normal 16px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.box {
+    max-width: 80%;
+    margin: auto;
+    background-color: #fdfdfd
+padding: 5px 5px;
+}
+
+.photo {
+    margin-bottom: 5px;
+    width: 230px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(48, 12, 12);
+
+}
+ 
+.obwi {
+    
+    background-color: #D8BFD8;
+    border-radius: 20px;
+    padding: 10px 15px ;
+    margin-bottom: 5px
+}
+
+.obwi ul {
+    width: 100%;
+    color: #000000
+}
+
+
+.social {
+    
+    background-color: rgb(162, 219, 136);
+    padding: 15px 15px;
+    border-radius: 20px;
+    margin-bottom: 5px
+}
+.social a {
+    color:black
+    text-decoration: none
+}
+
+.about {
+    background-color: #ADFF2F;
+    border-radius: 20px;
+    padding: 15px 15px;
+    margin-bottom: 5px
+}
+
+.work {
+    background-color: #D2B48C;
+    border-radius: 20px;
+    padding: 15px 15px;
+    margin-bottom: 5px
+}
